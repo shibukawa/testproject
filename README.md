@@ -1,4 +1,5 @@
 testproject
 ===========
 
-test
+* test
+* test2
